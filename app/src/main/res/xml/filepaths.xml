@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <cache-path
+        name="cache_apk"
+        path="cache_share_apk"/>
+    <external-path
+        name="external_apk"
+        path="external_share_apk/"/>
+</paths>
